@@ -1,7 +1,7 @@
 def food (breakfest = "frosted flacks") 
   puts "i love having #{breakfeast} in the morning"
 end
-def food (frosted flakes)
+def food (frosted_flakes)
  
  def foods(lunch = "cheese")
   puts "i love having #{lunch} at noon"
