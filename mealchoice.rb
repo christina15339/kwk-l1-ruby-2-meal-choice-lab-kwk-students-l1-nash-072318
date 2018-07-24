@@ -1,14 +1,13 @@
-def food (breakfest = "frosted flacks") 
+def breakfeast(food = "frosted flacks") 
   puts "i love having #{breakfeast} in the morning"
 end
 def food (frosted_flakes)
  
- def foods(lunch = "cheese")
+ def lunch(food = "cheese")
   puts "i love having #{lunch} at noon"
 end
 def foods(grilled cheese)
   
-def morefood (dinner = "steak")
+def morefoood dinner(food = "salmon")
   puts "i love having #{dinner} at six"
 end 
-def morefood (salmon)
